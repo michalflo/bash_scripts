@@ -54,6 +54,3 @@ case $? in
   2 ) echo "$1 nie znajduje się w katalogach zmiennej PATH."     ;;
 esac
 exit 0
-
-
-wwewedwd
